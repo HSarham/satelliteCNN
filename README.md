@@ -22,9 +22,11 @@ To calculate the results given the test images provided with the code you just n
 
 ``source evaluation_classification.sh``
 
+After running the code some of the results will be shown in the terminal. The code also produces some plots that are save in the ``plots`` folder.
+
 # Backbone Training
 
-You do not need to train the backbone, you can use the model already provided with this code in the models folder.
+You do not need to train the backbone, you can use the model already provided with this code in the ``models`` folder.
 However, in case you want to do the training yourself, you have to download the training data.
 When you train a new model it will be in the models folder and you will need to change the model path in the evaluate_classification.sh file.
 
