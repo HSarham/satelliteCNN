@@ -180,8 +180,8 @@ def get_backward_elimination_results(feature_names, feature_names_no_colour,feat
         "testing":{"_balanced_testing":True,"":False}
         }
 
-    # num_experiments = 100
-    num_experiments = 1
+    num_experiments = 100
+    # num_experiments = 1
 
     BE_path_prefix = "BE_results/"
     os.makedirs(BE_path_prefix,exist_ok=True)
