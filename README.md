@@ -40,7 +40,7 @@ To run the training code you just need use the following command:
 ``python backbone_training/train_backbone.py``
 
 
-## Please cite our paper if you are using are code
+## Please cite our paper if you are using our code
 ```
 @article{sarmadi_human_2024,
 	title = {Human bias and {CNNs}’ superior insights in satellite based poverty mapping},
