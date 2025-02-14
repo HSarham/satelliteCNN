@@ -2,7 +2,7 @@
 
 This is the reference implementation of the following paper:
 
-[Sarmadi, Hamid, Ibrahim Wahab, Ola Hall, Thorsteinn Rögnvaldsson, and Mattias Ohlsson. “Human Bias and CNNs’ Superior Insights in Satellite Based Poverty Mapping.” Scientific Reports 14, no. 1 (October 2, 2024): 22878. https://doi.org/10.1038/s41598-024-74150-9.](https://www.nature.com/articles/s41598-024-74150-9)
+[Sarmadi, Hamid, Ibrahim Wahab, Ola Hall, Thorsteinn Rögnvaldsson, and Mattias Ohlsson. “Human Bias and CNNs’ Superior Insights in Satellite Based Poverty Mapping.” Scientific Reports 14, no. 1 (October 2, 2024): 22878. https://doi.org/10.1038/s41598-024-74150-9.](https://doi.org/10.1038/s41598-024-74150-9)
 
 ## Python Package Requirements
 
