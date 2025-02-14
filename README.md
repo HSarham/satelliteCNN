@@ -33,7 +33,7 @@ When you train a new model it will be in the models folder and you will need to 
 ## Downloading the training data
 
 You can download the training data from [https://doi.org/10.7910/DVN/PPWAFG](https://doi.org/10.7910/DVN/PPWAFG).
-After downloding all the files extract them to a folder named "image_data" in the root directory.
+After downloding all the files extract them to a folder named ``image_data`` in the root folder of the code.
 
 ## Running the training code
 
