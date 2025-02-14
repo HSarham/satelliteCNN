@@ -22,7 +22,7 @@ To calculate the results given the test images provided with the code you just n
 
 ``source evaluation_classification.sh``
 
-After running the code some of the results will be shown in the terminal. The code also produces some plots that are save in the ``plots`` folder.
+After running the code some of the results will be shown in the terminal. The code also produces some plots saved in the ``plots`` folder.
 
 # Backbone Training
 
