@@ -64,4 +64,4 @@ To run the training code you just need use the following command:
 }
 ```
 
-Contains modified Copernicus Sentinel data 2025.
+Contains modified Copernicus Sentinel data 2025. © 2025. The dataset in the test_images folder is licensed under Creative Commons CC BY-SA 4.0
