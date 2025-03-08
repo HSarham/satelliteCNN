@@ -63,3 +63,5 @@ To run the training code you just need use the following command:
 	pages = {22878}
 }
 ```
+
+Contains modified Copernicus Sentinel data 2025.
